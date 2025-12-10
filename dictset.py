@@ -94,7 +94,6 @@ dict.update({subject2 : 28})
 subject3 = input("enter 3rd subject")
 dict.update({subject3 : 40})
 print(dict)
-Q4
 set = {
     ("float", 9.0),
     ("int",9)
